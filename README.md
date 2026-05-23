@@ -1,5 +1,7 @@
 # Blockchain-Based Supply Chain Provenance System
 
+![Banner](docs/banner.png)
+
 > Transparent, Tamper-Evident, and End-to-End Traceable — Arizona State University · CSE 540 Engineering Blockchain Applications
 
 [![Solidity](https://img.shields.io/badge/Solidity-0.8.20-363636?logo=solidity)](https://soliditylang.org)
